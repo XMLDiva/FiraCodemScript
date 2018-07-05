@@ -3,6 +3,9 @@ Fira Code mScript is a font hybrid with ligatures as well as a nice script style
 
 The regular and bold fonts (and where the ligatures are from) are from [Fira Code](https://github.com/tonsky/FiraCode); the italic is from [Merienda](https://www.fontsquirrel.com/fonts/merienda).
 
+![image](images/Code1.png)
+![image](images/Code2.png)
+
 ### New Characters
 I'm really picky so I changed the following characters I didn't like.
 
