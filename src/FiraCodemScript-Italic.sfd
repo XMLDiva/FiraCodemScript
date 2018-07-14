@@ -3,7 +3,7 @@ FontName: FiraCodemScript-Italic
 FullName: Fira Code mScript Italic
 FamilyName: Fira Code mScript
 Weight: Regular
-Copyright: A font family for use with code editors with italics set to a distinct style visual difference as well as ligatures for combinations of programming symbols.\n\nCopyright (c) 2015 by Nikita Prokopov for FiraCode Spacing\n\nCopyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'
+Copyright: A font family for use with code editors with italics set to a distinct style visual difference as well as ligatures for combinations of programming symbols.\n\nCopyright (c) 2015 by Nikita Prokopov for FiraCode Spacing\n\nCopyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'\nhttp://www.fontspace.com/eduardo-tunni/merienda
 Version: 1
 ItalicAngle: -10
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1519723474
-ModificationTime: 1530924409
+ModificationTime: 1531542125
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
