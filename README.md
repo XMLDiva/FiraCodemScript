@@ -1,4 +1,4 @@
-# Fira Code mScript
+# Fira Code mScript 
 Fira Code mScript is a font hybrid with ligatures as well as a nice script style font for italics, allowing a distinct visual difference for keywords and comments (with appropriate style theme applied).
 
 The regular and bold fonts (and where the ligatures are from) are from [Fira Code](https://github.com/tonsky/FiraCode); the italic is from [Merienda](https://www.fontsquirrel.com/fonts/merienda).
